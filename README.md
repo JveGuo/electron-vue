@@ -1,6 +1,7 @@
 # my_electron
 
 > 一个可以查天气的 electron-vue 桌面客户端
+> 功能：查天气
 
 #### Build Setup
 
